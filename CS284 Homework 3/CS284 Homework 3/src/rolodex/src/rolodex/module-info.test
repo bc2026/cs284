@@ -1,0 +1,5 @@
+--add-modules
+  org.junit.jupiter.api
+
+--add-reads
+  com.github.bamling.examples.module1=org.junit.jupiter.api
